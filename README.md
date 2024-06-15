@@ -12,8 +12,13 @@ The dataset used in this project contains various features related to customer b
 
 ## Features
 Data Preprocessing: Cleaning and preparing the data for modeling.
+<br>
 Exploratory Data Analysis (EDA): Analyzing the data to uncover patterns and insights.
+<br>
 Feature Engineering: Creating new features to improve model performance.
+<br>
 Model Training: Training various machine learning models to predict customer churn.
+<br>
 Model Evaluation: Evaluating the performance of the models using appropriate metrics.
+<br>
 Prediction: Making predictions on new data.
